@@ -1,0 +1,12 @@
+Package: com.kurrt.nopadlock12
+Name: NoPadlock12
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Hide (or now move) the lockscreen/NC padlock.
+Homepage: https://kurrt.com/repo/nopadlock12
+Depiction: https://kurrt.com/repo/nopadlock12
+SileoDepiction: https://kurrt.com/repo/nopadlock12/sileo.php
+Maintainer: Kurrt <dev@kurrt.com>
+Author: Kurrt <dev@kurrt.com>
+Section: Tweaks
